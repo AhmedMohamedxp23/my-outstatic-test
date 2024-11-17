@@ -1,6 +1,6 @@
 {
-  "commit": "f8413252b7f08d90405ea38618d4ec53073b5c21",
-  "generated": "Sun, 17 Nov 2024 05:20:43 GMT",
+  "commit": "6c5eab9c470524f29ed3a7d7f59614c27b5a7fb7",
+  "generated": "2024-11-17T05:20:58.078Z",
   "metadata": [
     {
       "__outstatic": {
@@ -138,24 +138,6 @@
       "slug": "couple-pizza",
       "status": "published",
       "title": "Couple Pizza"
-    },
-    {
-      "__outstatic": {
-        "commit": "25dd662f01836184f91211f76587dd66646bee71",
-        "hash": "1883660657",
-        "path": "outstatic/content/universities/mmu.md"
-      },
-      "author": {
-        "name": "Ahmed mohameed",
-        "picture": "https://avatars.githubusercontent.com/u/139620661?v=4"
-      },
-      "collection": "universities",
-      "coverImage": "/images/img_1550-A4Mj.png",
-      "description": "",
-      "publishedAt": "2024-11-17T05:52:37.473Z",
-      "slug": "mmu",
-      "status": "published",
-      "title": "MMU"
     }
   ]
 }
