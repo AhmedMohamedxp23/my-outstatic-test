@@ -3,7 +3,7 @@
   "type": "object",
   "properties": {
     "budget": {
-      "required": true,
+      "required": false,
       "description": "the whole 3 years costs 10k Rm",
       "fieldType": "String",
       "dataType": "string",
