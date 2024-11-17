@@ -1,6 +1,6 @@
 {
-  "commit": "1a89f6cffbbea9cb297e6a9f68c6a2a8e5896bfa",
-  "generated": "2024-11-17T05:31:23.256Z",
+  "commit": "bdd2a21e168e2f4352df3dcece8b021154fa357f",
+  "generated": "2024-11-17T05:32:27.483Z",
   "metadata": [
     {
       "__outstatic": {
@@ -141,7 +141,7 @@
     },
     {
       "__outstatic": {
-        "commit": "1a89f6cffbbea9cb297e6a9f68c6a2a8e5896bfa",
+        "commit": "bdd2a21e168e2f4352df3dcece8b021154fa357f",
         "hash": "470761647",
         "path": "outstatic/content/blogs/welcome-blog.md"
       },
