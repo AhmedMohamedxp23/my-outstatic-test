@@ -1,6 +1,6 @@
 {
-  "commit": "cf020127ccaa4b804c23ecae6ceec4533d16d633",
-  "generated": "2024-11-17T05:05:15.030Z",
+  "commit": "837c4112f30ee0a331befe9bb6350189ad9c9875",
+  "generated": "2024-11-17T05:12:31.218Z",
   "metadata": [
     {
       "__outstatic": {
@@ -141,7 +141,7 @@
     },
     {
       "__outstatic": {
-        "commit": "cf020127ccaa4b804c23ecae6ceec4533d16d633",
+        "commit": "837c4112f30ee0a331befe9bb6350189ad9c9875",
         "hash": "1883660657",
         "path": "outstatic/content/universities/mmu.md"
       },
