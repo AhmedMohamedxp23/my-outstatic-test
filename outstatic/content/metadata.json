@@ -1,6 +1,6 @@
 {
-  "commit": "3588cb7aaa7dc0912507aaeb1ba3c7d6e485fe67",
-  "generated": "2024-11-17T04:57:36.789Z",
+  "commit": "cf020127ccaa4b804c23ecae6ceec4533d16d633",
+  "generated": "2024-11-17T05:05:15.030Z",
   "metadata": [
     {
       "__outstatic": {
@@ -138,6 +138,24 @@
       "tags": [
       ],
       "title": "Nothing is wrong. Everything is perfect"
+    },
+    {
+      "__outstatic": {
+        "commit": "cf020127ccaa4b804c23ecae6ceec4533d16d633",
+        "hash": "1883660657",
+        "path": "outstatic/content/universities/mmu.md"
+      },
+      "author": {
+        "name": "Ahmed mohameed",
+        "picture": "https://avatars.githubusercontent.com/u/139620661?v=4"
+      },
+      "collection": "universities",
+      "coverImage": "/images/img_1550-A4Mj.png",
+      "description": "",
+      "publishedAt": "2024-11-17T05:52:37.473Z",
+      "slug": "mmu",
+      "status": "published",
+      "title": "MMU"
     }
   ]
 }
