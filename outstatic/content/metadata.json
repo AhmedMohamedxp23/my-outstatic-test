@@ -1,6 +1,6 @@
 {
-  "commit": "a291f85a92c81dc7ab12cb4e01e67fabd89ea0d6",
-  "generated": "2024-11-17T05:23:31.405Z",
+  "commit": "0676e6b5015b2e780ff4a0830dec8ae71bf32bd6",
+  "generated": "2024-11-17T05:27:06.329Z",
   "metadata": [
     {
       "__outstatic": {
@@ -138,6 +138,24 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
+    },
+    {
+      "__outstatic": {
+        "commit": "0676e6b5015b2e780ff4a0830dec8ae71bf32bd6",
+        "hash": "470761647",
+        "path": "outstatic/content/blogs/welcome-blog.md"
+      },
+      "author": {
+        "name": "Ahmed mohameed",
+        "picture": "https://avatars.githubusercontent.com/u/139620661?v=4"
+      },
+      "collection": "blogs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-11-17T06:14:34.453Z",
+      "slug": "welcome-blog",
+      "status": "published",
+      "title": "Welcome Blog"
     }
   ]
 }
