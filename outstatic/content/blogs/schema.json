@@ -1,0 +1,13 @@
+{
+  "title": "blogs",
+  "type": "object",
+  "properties": {
+    "budget": {
+      "required": true,
+      "description": "the whole 3 years costs 10k Rm",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "Budget"
+    }
+  }
+}
