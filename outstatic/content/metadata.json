@@ -1,6 +1,6 @@
 {
-  "commit": "6c5eab9c470524f29ed3a7d7f59614c27b5a7fb7",
-  "generated": "2024-11-17T05:20:58.078Z",
+  "commit": "a291f85a92c81dc7ab12cb4e01e67fabd89ea0d6",
+  "generated": "2024-11-17T05:23:31.405Z",
   "metadata": [
     {
       "__outstatic": {
@@ -51,24 +51,6 @@
         }
       ],
       "title": "Learn how to create your blog with Outstatic"
-    },
-    {
-      "__outstatic": {
-        "commit": "2e47122b5b6d49d6d1ddb15bcd33edc4a0c1256e",
-        "hash": "217348983",
-        "path": "outstatic/content/pages/home.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": ""
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "This is my blog.",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "home",
-      "status": "published",
-      "title": "Home"
     },
     {
       "__outstatic": {
@@ -138,6 +120,24 @@
       "slug": "couple-pizza",
       "status": "published",
       "title": "Couple Pizza"
+    },
+    {
+      "__outstatic": {
+        "commit": "a291f85a92c81dc7ab12cb4e01e67fabd89ea0d6",
+        "hash": "1500127394",
+        "path": "outstatic/content/pages/home.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": ""
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "This is my blog.",
+      "publishedAt": "2022-03-17T05:35:07.322Z",
+      "slug": "home",
+      "status": "published",
+      "title": "Home"
     }
   ]
 }
